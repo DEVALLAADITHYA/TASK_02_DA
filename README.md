@@ -101,9 +101,3 @@ Certain product categories showed seasonal spikes in sales
 
 Missing values concentrated in demographic-related fields
 
-📑 Before vs After EDA
-Step	Before Example	After Example
-Missing Values	Columns with nulls in Age/Income	All missing values handled
-Outliers	Extreme values in Spending Score	Detected and visualized via boxplots
-Skewness	Highly skewed income distribution	Log-transformed for normalization
-Dataset Readiness	Raw unstructured data	Cleaned dataset ready for modeling
